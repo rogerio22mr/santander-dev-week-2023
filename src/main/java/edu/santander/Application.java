@@ -1,4 +1,4 @@
-package edu.santander.domain;
+package edu.santander;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
